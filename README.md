@@ -1,4 +1,4 @@
-# Curriculo e portifólio de Data science | Lucas Vianna
+# Currículo e portifólio de Data science | Lucas Vianna
 
 Cada vez mais o mercado e tecnologias se atualizam e para esse desafio eu foco o meu trabalho no Business intelligence (BI) 
 pela busca das respostas que todas as empresas precisam na palma da mão para tomar as decisões certas.
