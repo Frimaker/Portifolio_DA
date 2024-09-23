@@ -14,8 +14,14 @@ Aprendendo melhor sobre as aplicação de estatistica para análise inteligente 
 
 ## Projetos Simples 
 
+### [Criando um Schema](https://github.com/Frimaker/frimaker.github.io/blob/main/Criando%20um%20Schema.md)
+>SQL | MySQL
+
+Antes de criarmos uma tabela devemos pensar em como elas irão se relacionar, pois primeiramente isso irá evitar a duplicação de dados, obriga que haja dados não faltantes e facilita o cruzamento dos dados para as análises que planejamos fazer.
+
+
 ### Mineração de dados
 >SQL | EXCEL | R
 
-Nesta tabela de tickets de transporte demonstro habilidades com a criação de dados amostrais, seu processo de análise e descobrimento de informações.
+Será demonstrada por esta tabela de tickets de transporte habilidades como a criação de dados amostrais, seu processo de análise e descobrimento de informações.
 
