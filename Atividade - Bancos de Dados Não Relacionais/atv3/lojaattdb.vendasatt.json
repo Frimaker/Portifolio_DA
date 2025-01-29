@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "67995f2d52d3c3ec580f6e17"
+  },
+  "Nome": "João",
+  "Cliente VIP(1 – sim / 0 – Não)": 1,
+  "Email": "joao@email.com",
+  "telefone": [
+    "9999-1111",
+    "8888-1111"
+  ],
+  "Endereço": {
+    "Rua": "Rua Um",
+    "Numero": 1000,
+    "Complemento": "Apto 1 Bloco 1",
+    "Cidade": "São Paulo",
+    "Estado": "SP"
+  },
+  "Compras": [
+    {
+      "Nome do produto": "notebook",
+      "Preço": "R$ 5000,00",
+      "Quantidade": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67995f6452d3c3ec580f6e19"
+  },
+  "Nome": "Marcos",
+  "Cliente VIP(1 – sim / 0 – Não)": 0,
+  "telefone": [
+    "9999-2222"
+  ],
+  "Endereço": {
+    "Rua": "Rua Dois",
+    "Numero": 4000,
+    "Cidade": "Campinas",
+    "Estado": "SP"
+  },
+  "Compras": [
+    {
+      "Nome do produto": "caderno",
+      "Preço": "R$ 20,00",
+      "Quantidade": 1
+    },
+    {
+      "Nome do produto": "caneta",
+      "Preço": "R$ 3,00",
+      "Quantidade": 5
+    },
+    {
+      "Nome do produto": "borracha",
+      "Preço": "R$ 2,00",
+      "Quantidade": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67995f6d52d3c3ec580f6e1b"
+  },
+  "Nome": "Maria",
+  "Cliente VIP(1 – sim / 0 – Não)": 1,
+  "Email": "maria@email.com",
+  "telefone": [
+    "9999-3333",
+    "8888-3333",
+    "9988-3000"
+  ],
+  "Endereço": {
+    "Rua": "Rua Tres",
+    "Numero": 3000,
+    "Cidade": "Londrina",
+    "Estado": "PR"
+  },
+  "Compras": [
+    {
+      "Nome do produto": "tablet",
+      "Preço": "R$ 2500,00",
+      "Quantidade": 1
+    },
+    {
+      "Nome do produto": "capa para tablet",
+      "Preço": "R$ 50,00",
+      "Quantidade": 1
+    }
+  ]
+}]

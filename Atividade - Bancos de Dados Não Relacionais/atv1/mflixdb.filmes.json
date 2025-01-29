@@ -1,0 +1,363 @@
+[{
+  "_id": {
+    "$oid": "573a1391f29313caabcd6d40"
+  },
+  "plot": "A tipsy doctor encounters his patient sleepwalking on a building ledge, high above the street.",
+  "genres": [
+    "Comedy",
+    "Short"
+  ],
+  "runtime": 26,
+  "rated": "PASSED",
+  "cast": [
+    "Harold Lloyd",
+    "Roy Brooks",
+    "Mildred Davis",
+    "Wallace Howe"
+  ],
+  "num_mflix_comments": 3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BODliMjc3ODctYjhlOC00MDM5LTgzNmUtMjQ1MmViNDQ0NzlhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SY1000_SX677_AL_.jpg",
+  "title": "High and Dizzy",
+  "fullplot": "After a long wait, a young doctor finally has a patient come to his office. She is a young woman whose father has brought her to be treated for sleep-walking, but the father becomes annoyed with the doctor, and takes his daughter away. Soon afterward, the young doctor shares in a drinking binge with another doctor who has built a still in his office. After a series of misadventures, the two of them wind up in the same hotel where the daughter and her father are staying, leading to some hazardous predicaments.",
+  "languages": [
+    "English"
+  ],
+  "released": {
+    "$date": {
+      "$numberLong": "-1561334400000"
+    }
+  },
+  "directors": [
+    "Hal Roach"
+  ],
+  "writers": [
+    "Frank Terry (story)",
+    "H.M. Walker (titles)"
+  ],
+  "awards": {
+    "wins": 0,
+    "nominations": 1,
+    "text": "1 nomination."
+  },
+  "lastupdated": "2015-08-11 00:35:33.717000000",
+  "year": 1920,
+  "imdb": {
+    "rating": 7,
+    "votes": 646,
+    "id": 11293
+  },
+  "countries": [
+    "USA"
+  ],
+  "type": "movie",
+  "tomatoes": {
+    "viewer": {
+      "rating": 3.4,
+      "numReviews": 30,
+      "meter": 70
+    },
+    "lastUpdated": {
+      "$date": "2015-06-27T19:17:10.000Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "573a1391f29313caabcd6d90"
+  },
+  "plot": "As Alice and Cora Munro attempt to find their father, a British officer in the French and Indian War, they are set upon by French soldiers and their cohorts, Huron tribesmen led by the evil...",
+  "genres": [
+    "Adventure",
+    "Drama"
+  ],
+  "runtime": 73,
+  "rated": "NOT RATED",
+  "cast": [
+    "Wallace Beery",
+    "Barbara Bedford",
+    "Alan Roscoe",
+    "Lillian Hall"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmJkZDU2N2ItMGNiYy00MTBmLTliOTYtNDU5NTdmMjEyMDFmXkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_SY1000_SX677_AL_.jpg",
+  "title": "The Last of the Mohicans",
+  "fullplot": "As Alice and Cora Munro attempt to find their father, a British officer in the French and Indian War, they are set upon by French soldiers and their cohorts, Huron tribesmen led by the evil Magua. Fighting to rescue the women are Chingachgook and his son Uncas, the last of the Mohican tribe, and their white ally, the frontiersman Natty Bumppo, known as Hawkeye.",
+  "languages": [
+    "English"
+  ],
+  "released": {
+    "$date": {
+      "$numberLong": "-1549843200000"
+    }
+  },
+  "directors": [
+    "Clarence Brown",
+    "Maurice Tourneur"
+  ],
+  "writers": [
+    "James Fenimore Cooper (novel)",
+    "Robert Dillon (scenario)"
+  ],
+  "awards": {
+    "wins": 1,
+    "nominations": 0,
+    "text": "1 win."
+  },
+  "lastupdated": "2015-07-19 00:12:27.010000000",
+  "year": 1920,
+  "imdb": {
+    "rating": 6.9,
+    "votes": 773,
+    "id": 11387
+  },
+  "countries": [
+    "USA"
+  ],
+  "type": "movie",
+  "tomatoes": {
+    "viewer": {
+      "rating": 3.5,
+      "numReviews": 306,
+      "meter": 63
+    },
+    "dvd": {
+      "$date": "2000-05-09T00:00:00.000Z"
+    },
+    "lastUpdated": {
+      "$date": "2015-08-05T18:26:29.000Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "573a1391f29313caabcd6e2a"
+  },
+  "plot": "A newly wedded couple attempt to build a house with a prefabricated kit, unaware that a rival sabotaged the kit's component numbering.",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "runtime": 25,
+  "cast": [
+    "Buster Keaton",
+    "Sybil Seely"
+  ],
+  "num_mflix_comments": 1,
+  "title": "One Week",
+  "fullplot": "Buster and Sybil exit a chapel as newlyweds. Among the gifts is a portable house you easily put together in one week. It doesn't help that Buster's rival for Sybil switches the numbers on the crates containing the house parts.",
+  "languages": [
+    "English"
+  ],
+  "released": {
+    "$date": {
+      "$numberLong": "-1556841600000"
+    }
+  },
+  "directors": [
+    "Edward F. Cline",
+    "Buster Keaton"
+  ],
+  "rated": "TV-G",
+  "awards": {
+    "wins": 1,
+    "nominations": 0,
+    "text": "1 win."
+  },
+  "lastupdated": "2015-05-07 01:07:01.633000000",
+  "year": 1920,
+  "imdb": {
+    "rating": 8.3,
+    "votes": 3942,
+    "id": 11541
+  },
+  "countries": [
+    "USA"
+  ],
+  "type": "movie",
+  "tomatoes": {
+    "viewer": {
+      "rating": 4.3,
+      "numReviews": 752,
+      "meter": 91
+    },
+    "lastUpdated": {
+      "$date": "2015-09-13T18:22:19.000Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "573a1391f29313caabcd6ea2"
+  },
+  "plot": "The simple-minded son of a rich financier must find his own way in the world.",
+  "genres": [
+    "Comedy"
+  ],
+  "runtime": 77,
+  "cast": [
+    "Edward Jobson",
+    "Beulah Booker",
+    "Edward Connelly",
+    "Edward Alexander"
+  ],
+  "num_mflix_comments": 2,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDNiODA3NzQtNTBmZS00NTM3LWJlOGMtMDg2NzFiNDU2M2M3XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SY1000_SX677_AL_.jpg",
+  "title": "The Saphead",
+  "fullplot": "Nick Van Alstyne owns the Henrietta silver mine and is very rich. His son Bertie is naive and spoiled. His daughter Rose is married to shady investor Mark. Mark wrecks Bertie's wedding plans by making him take the blame for Mark's illegitimate daughter. Mark also nearly ruins the family business by selling off Henrietta stock at too low a price. Bertie, of all people, must come to the rescue on the trading floor.",
+  "countries": [
+    "USA"
+  ],
+  "released": {
+    "$date": {
+      "$numberLong": "-1556841600000"
+    }
+  },
+  "directors": [
+    "Herbert Blachè",
+    "Winchell Smith"
+  ],
+  "writers": [
+    "Bronson Howard (original play \"The Henrietta\")",
+    "Victor Mapes (play)",
+    "June Mathis (scenario)",
+    "Winchell Smith (play)"
+  ],
+  "awards": {
+    "wins": 0,
+    "nominations": 1,
+    "text": "1 nomination."
+  },
+  "lastupdated": "2015-06-20 00:38:08.303000000",
+  "year": 1920,
+  "imdb": {
+    "rating": 6.2,
+    "votes": 1020,
+    "id": 11652
+  },
+  "type": "movie",
+  "tomatoes": {
+    "viewer": {
+      "rating": 3.3,
+      "numReviews": 435,
+      "meter": 49
+    },
+    "dvd": {
+      "$date": "2000-01-11T00:00:00.000Z"
+    },
+    "lastUpdated": {
+      "$date": "2015-06-23T19:23:34.000Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "573a1391f29313caabcd6f8f"
+  },
+  "plot": "Abandoned by her fiancè, an educated negro woman with a shocking past dedicates herself to helping a near bankrupt school for impoverished negro youths.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "runtime": 79,
+  "cast": [
+    "Evelyn Preer",
+    "Flo Clements",
+    "James D. Ruffin",
+    "Jack Chenault"
+  ],
+  "title": "Within Our Gates",
+  "fullplot": "Southern negro Sylvia Landry visits her cousin Alma in the north, where there is less racial prejudice than in her home town of Piney Woods in the deep south, and is anxiously awaiting her fiancè, Conrad. But Alma has designs on Conrad and tricks Sylvia into a compromising situation when he arrives, and he abandons her. Disheartened, she returns to Piney Woods to help a reverend running a school for young negroes. Sylvia learns that the reverend hasn't the heart to turn away poor students, and unless he can raise $5,000 to supplement the $1.49 per child per year that the state supplies, the school will be closed. She goes up north again to try to raise the money and has little success, but meets kindly negro, Dr. V. Vivian, who helps her regain her stolen purse. When she saves a child from being hit by an auto, she herself is slightly injured. But the owner of the car is philanthropist Mrs. Elena Warwick, who is sympathetic to her quest and promises to donate the $5,000 to the school. Her bigoted southern friend, Mrs. Stratton, tries to talk her out of the donation, and Mrs. Warwick gets so incensed she raises the amount to $50,000. Her job done, Sylvia returns to Piney Woods. But Dr. Vivian has fallen in love with Sylvia and goes to Alma to try to find her. There he learns the shocking details of her past and that of her family.",
+  "countries": [
+    "USA"
+  ],
+  "released": {
+    "$date": {
+      "$numberLong": "-1576972800000"
+    }
+  },
+  "directors": [
+    "Oscar Micheaux"
+  ],
+  "writers": [
+    "Oscar Micheaux"
+  ],
+  "awards": {
+    "wins": 1,
+    "nominations": 0,
+    "text": "1 win."
+  },
+  "lastupdated": "2015-08-21 00:15:06.017000000",
+  "year": 1920,
+  "imdb": {
+    "rating": 6.3,
+    "votes": 1138,
+    "id": 11870
+  },
+  "type": "movie",
+  "tomatoes": {
+    "viewer": {
+      "rating": 3.4,
+      "numReviews": 391,
+      "meter": 52
+    },
+    "production": "Micheaux Book & Film Company",
+    "lastUpdated": {
+      "$date": "2015-09-12T17:59:21.000Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "573a139ff29313caabd01709"
+  },
+  "countries": [
+    "USA"
+  ],
+  "genres": [
+    "Western"
+  ],
+  "runtime": 80,
+  "cast": [
+    "Em-koy-e-tie",
+    "Hunting Horse",
+    "Esther LeBarre",
+    "Wanada Parker"
+  ],
+  "title": "The Daughter of Dawn",
+  "lastupdated": "2015-09-03 00:33:47.333000000",
+  "languages": [
+    "English"
+  ],
+  "released": {
+    "$date": {
+      "$numberLong": "-1554249600000"
+    }
+  },
+  "directors": [
+    "Norbert A. Myles"
+  ],
+  "writers": [
+    "Richard Banks (story)",
+    "Norbert A. Myles"
+  ],
+  "awards": {
+    "wins": 1,
+    "nominations": 0,
+    "text": "1 win."
+  },
+  "year": 1920,
+  "imdb": {
+    "rating": 6.4,
+    "votes": 30,
+    "id": 191066
+  },
+  "type": "movie",
+  "tomatoes": {
+    "viewer": {
+      "rating": 0,
+      "numReviews": 2
+    },
+    "lastUpdated": {
+      "$date": "2015-09-10T19:02:18.000Z"
+    }
+  }
+}]
